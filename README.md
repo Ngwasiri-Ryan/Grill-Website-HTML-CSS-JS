@@ -36,12 +36,12 @@ To run **Grilli** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git
+sudo git clone https://github.com/Ngwasiri-Ryan/Grill-Website-HTML-CSS-JS.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git
+git clone https://github.com/Ngwasiri-Ryan/Grill-Website-HTML-CSS-JS.git
 ```
 
